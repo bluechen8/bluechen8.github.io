@@ -9,7 +9,7 @@ Course: Motion Control Technology, Advisor: Prof. Jun Meng
 {}{img_left}{./courseprj/applepicking.jpg}{alt text}{270}{200} \n
 ~~~
 
-- *Analytical Analysis of Multi-core Memory Hierarchy based on M/D/1/∞ Queuing Theory Model*, June 2021 \n
+- *Analytical Analysis of Multi-core Memory Hierarchy based on {{M/D/1/∞}} Queuing Theory Model*, June 2021 \n
 Course: Operation Research, Advisor: Prof. Yan He
 -- Learned and explored the practical way for engineers to get the relatively deep insight of the memory hierarchy design.
 -- The scheme based on queuing theory model that can predict the influence of the workload to the latency was provided by R.E.Matick et al. And I employed their method to observe the sensitivity of the parameters.
@@ -21,6 +21,11 @@ Course: Operation Research, Advisor: Prof. Yan He
 Course: Internet of Things Security, Advisor: Prof. Xiaoyu Ji
 -- Explored and reproduced the experiment in the paper published in IEEE S\&P 2021.
 -- Modified the source code to accomplish sniff attack and tampering attack demo. Owe to the vivid demonstration, I won the Best Innovation Award in the final presentation competition.
+
+~~~
+{}{raw}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rLbtdEXwg-Q" frameborder="0" allowfullscreen></iframe>
+~~~
 
 - *Infusion Pump Control System*, July 2020 \n
 Course: Practical Design of Electronic System, Advisor: Prof. Caijun Qi
