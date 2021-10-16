@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Coursework Projects
+
+- *Apple-picking Robot with a Soft Gripper*, June 2021 \n
+Course: Motion Control Technology, Advisor: Prof. Jun Meng
+- Designed the mechanical structure that takes advantage of gasbag to imitate human's muscle. And it can also achieve the soft grab through self-adaptation process.
+- Proposed a closed-loop system based on objective trace that enables  the robotic arm to detect, approach and seize the apple according to the real-time information from a single camera.
+~~~
+{}{img_left}{./courseprj/applepicking.jpg}{alt text}{270}{200} \n
+~~~
+
+- *Analytical Analysis of Multi-core Memory Hierarchy based on M/D/1/∞ Queuing Theory Model*, June 2021 \n
+Course: Operation Research, Advisor: Prof. Yan He
+-- Learned and explored the practical way for engineers to get the relatively deep insight of the memory hierarchy design.
+-- The scheme based on queuing theory model that can predict the influence of the workload to the latency was provided by R.E.Matick et al. And I employed their method to observe the sensitivity of the parameters.
+~~~
+{}{img_left}{./courseprj/queuingtheory.png}{alt text}{450}{250} \n
+~~~
+
+- *Method Confusion Attack on Bluetooth Pairing*, Jan 2021 \n
+Course: Internet of Things Security, Advisor: Prof. Xiaoyu Ji
+-- Explored and reproduced the experiment in the paper published in IEEE S\&P 2021.
+-- Modified the source code to accomplish sniff attack and tampering attack demo. Owe to the vivid demonstration, I won the Best Innovation Award in the final presentation competition.
+
+- *Infusion Pump Control System*, July 2020 \n
+Course: Practical Design of Electronic System, Advisor: Prof. Caijun Qi
+-- Analyzed and simulated the hardware circuit.
+-- Accomplished the incremental PID algorithm, sensor module and communication module, including the sampling loop, interrupt processing and serial communication on the MCU (MSP430).

@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==CV
+
+== Education
+- B.S. in Zhejiang University, China, Sept 2018--Present
+-- Rank: 1/93
+-- GPA: 92/100
+
+== Work Experience
+- Research Assistant, MIT CSAIL, July 2021--Present
+-- High bandwidth cache-based covert channel
+-- Supervisor: Professor Mengjia Yan
+
+== Honors and Awards
+- Zhejiang Provincial Government Scholarship, Dec 2020
+- Zhejiang University Scholarship – Second Prize, ZJU, Nov 2020
+- Zhejiang University Scholarship – Third Prize, ZJU, Nov 2019
+
+== Research
+- Evict+Skip: A High-Bandwidth, Non-Shared-Page Cache Covert Channel Attack, July 2021--Present
+- Intelligent Video Analysis in the Intelligent Power Plant, Apr 2020--May 2021 \n
+[research.html More information]
+
+== Course Projects
+- Apple-picking Robot with a Soft Gripper, June 2021
+- Analytical Analysis of Multi-core Memory Hierarchy based on M/D/1/∞ Queuing Theory Model, June 2021
+- Method Confusion Attack on Bluetooth Pairing, Jan 2021
+- Infusion Pump Control System, July 2020 \n
+[courses.html More information]
+
+== Skills
+- Computer Languages
+-- C
+-- Python
+-- VHDL
+-- Matlab
+-- etc.
+- Tools
+-- OrCAD
+-- Simulink
+-- Quartus
+-- etc.
+== PDF Version
+[BoruChen_CV.pdf Links to full CV]

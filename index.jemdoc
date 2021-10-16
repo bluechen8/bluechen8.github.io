@@ -3,25 +3,20 @@
 
 ~~~
 {}{img_left}{scenary.jpg}{alt text}{360}{270}
-Bachelor of Technology,\n [http://ee.zju.edu.cn/englishee/main.htm Electrical Engineering Department], \n[https://www.zju.edu.cn/english/ Zhejiang University (ZJU)]\n
+Bachelor of Engineering,\n [http://ee.zju.edu.cn/englishee/main.htm Electrical Engineering Department], \n[https://www.zju.edu.cn/english/ Zhejiang University (ZJU)]\n
 No.38 Zhejiang University Road \n
-Hangzhou, China \n 
+Hangzhou, Zhejiang Province, China \n 
 Phone: \+86 18060936398 \n
-E-post: /bluechen/ \[@\] zju \[DOT\] edu \[DOT\] cn
+Email: /eebrchen/ \[at\] gmail \[dot\] com
 ~~~
 
 == About me
-I am a bachelor student majored in Automation at Zhejiang University.
+I am a senior bachelor student majored in Automation at Zhejiang University.
 
-== Research
+== Research Interest
 My research interests include 
-- Surfing the Internet
-- Sleep
+- System Security
+- Computer Architecture
+- IoT/Mobile Security
 
-[research.html Find out more].
-=== Recent Publications 
-Empty!!!
-
-[publications.html Full list of publications].
-\n
-[cv.pdf A brief cv].
+Recently, I worked with [http://people.csail.mit.edu/mengjia/ Professor Mengjia Yan] and focused on the side-channel attack in computer microarchitecture.
