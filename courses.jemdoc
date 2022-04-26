@@ -3,8 +3,8 @@
 
 - *Apple-picking Robot with a Soft Gripper*, June 2021 \n
 Course: Motion Control Technology, Advisor: Prof. Jun Meng
-- Designed the mechanical structure that takes advantage of gasbag to imitate human's muscle. And it can also achieve the soft grab through self-adaptation process.
-- Proposed a closed-loop system based on objective trace that enables  the robotic arm to detect, approach and seize the apple according to the real-time information from a single camera.
+-- Designed the mechanical structure that takes advantage of gasbag to imitate human's muscle. And it can also achieve the soft grab through self-adaptation process.
+-- Proposed a closed-loop system based on objective trace that enables  the robotic arm to detect, approach and seize the apple according to the real-time information from a single camera.
 ~~~
 {}{img_left}{./courseprj/applepicking.jpg}{alt text}{270}{200} \n
 ~~~
