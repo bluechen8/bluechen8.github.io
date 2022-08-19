@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in ECE, University of Illinois at Urbana-Champaign, Aug. 2022 - Present
+* B.E. in Automation, Zhejiang University, Sep. 2018 - June 2022
+  * Rank: 1/93
+  * GPA: 91.37/100
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2021-Oct. 2021: Research Assistant
+  * MIT CSAIL
+  * High bandwidth cache-based covert channel
+  * Supervisor: [Professor Mengjia Yan](https://people.csail.mit.edu/mengjia/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Languages
+  * C
+  * Python
+  * Rust
+  * VHDL/Verilog
+  * etc.
+* Tools
+  * OrCAD
+  * Simulink
+  * Quartus
+  * etc.
 
 Publications
 ======
@@ -53,7 +54,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Xiaomi Scholarship, Xiaomi, Nov. 2021
+* Zhejiang Provincial Government Scholarship, Dec. 2020
+* Zhejiang University Scholarship – Second Prize, ZJU, Nov. 2020
+* Zhejiang University Scholarship – Third Prize, ZJU, Nov. 2019
