@@ -13,7 +13,7 @@ name                     : &name "Boru Chen"
 description              : &description "PhD Student at UIUC"
 url                      : https://bluechen8.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bluechen8/academicpages.github.io"
+repository               : "bluechen8/bluechen8.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Boru Chen"
-  avatar           : "profile.png"
+  avatar           : "bluephoto.jpg"
   bio              : "ECE Ph.D. Student at UIUC"
   location         : "Urbana-Champaign"
   employer         :
