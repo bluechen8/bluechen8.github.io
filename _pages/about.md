@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello :)
-My name is Boru(blue) Chen ["陈博儒"]. I am a Ph.D. student at the University of Illinois at Urbana-Champaign, working with [Professor Christopher Fletcher](http://cwfletcher.net/). I have broad interests in computer security. For now, my work concentrates on micro-architecture vulnerabilities.
+My name is Boru Chen ["陈博儒"]. I am a Ph.D. student at the University of Illinois at Urbana-Champaign, working with [Professor Christopher Fletcher](http://cwfletcher.net/). I have broad interests in computer security. For now, my work concentrates on micro-architecture vulnerabilities.
 
 Before coming to the corn fields, I received a B.E. degree in Automation from Zhejiang University, China.
 

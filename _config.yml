@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blue Page"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Boru Chen"
 description              : &description "PhD Student at UIUC"
