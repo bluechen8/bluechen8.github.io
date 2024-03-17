@@ -13,8 +13,6 @@ Education
 ======
 * Ph.D. in ECE, University of Illinois at Urbana-Champaign, Aug. 2022 - Present
 * B.E. in Automation, Zhejiang University, Sep. 2018 - June 2022
-  * Rank: 1/93
-  * GPA: 91.37/100
 
 Work experience
 ======
