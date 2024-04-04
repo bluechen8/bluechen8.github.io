@@ -15,6 +15,7 @@ Before coming to the corn fields, I received a B.E. degree in Automation from Zh
 
 News
 ======
+* 03/2024: GoFetch 🐾 is published, please check our [website](https://gofetch.fail).
 * 05/2023: Summer research at Gatech 🐝.
 * 08/2022: I arrive at corn fields to pursue my ECE Ph.D. degree at UIUC 🌽.
 
