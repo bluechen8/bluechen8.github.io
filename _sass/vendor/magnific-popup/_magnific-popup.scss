@@ -103,6 +103,15 @@ $mfp-use-visuallyhidden:              false !default; // Hide content from brows
   -webkit-backface-visibility: hidden; // fixes webkit bug that can cause "false" scrollbar
 }
 
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width:auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
+
 // Root container
 .mfp-container {
   text-align: center;
