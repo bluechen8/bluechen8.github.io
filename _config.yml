@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Boru Chen"
-description              : &description "PhD Candidate at UIUC"
+description              : &description "PhD Student at Berkeley"
 url                      : https://bluechen8.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bluechen8/bluechen8.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Boru Chen"
   avatar           : "bluephoto.jpg"
-  bio              : "ECE Ph.D. Candidate at UIUC"
-  location         : "Urbana-Champaign"
+  bio              : "CS Ph.D. Student at Berkeley"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=aEPaHogAAAAJ&hl=en"

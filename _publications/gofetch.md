@@ -3,6 +3,7 @@ title: "GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data
 collection: publications
 excerpt: 'GoFetch is a microarchitectural side-channel attack that can extract secret keys from constant-time cryptographic implementations via data memory-dependent prefetchers (DMPs). We show that DMPs are present in many Apple CPUs and pose a real threat to multiple cryptographic implementations, allowing us to extract keys from OpenSSL Diffie-Hellman, Go RSA, as well as CRYSTALS Kyber and Dilithium.'
 venue: 'USENIX Security 2024'
+highlight: 'Pwnie Award -- Best Cryptographic Attack'
 date: 2024-08-14
 paperurl: 'https://gofetch.fail/files/gofetch.pdf'
 citation: '<a href="#bibtex-gofetch" class="open-popup-link">bibtex</a>'

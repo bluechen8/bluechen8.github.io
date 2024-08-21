@@ -11,17 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in ECE, University of Illinois at Urbana-Champaign, Aug. 2022 - Present
+* Ph.D. in Computer Science, University of California Berkeley, Aug. 2024 - Present
+* Ph.D. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Aug. 2022 - Aug. 2024 (transfer to Berkeley)
 * B.E. in Automation, Zhejiang University, Sep. 2018 - June 2022
 
-Work experience
+<!-- Work experience
 ======
 * July 2021-Oct. 2021: Research Assistant
   * MIT CSAIL
   * High bandwidth cache-based covert channel
-  * Supervisor: [Professor Mengjia Yan](https://people.csail.mit.edu/mengjia/)
+  * Supervisor: [Professor Mengjia Yan](https://people.csail.mit.edu/mengjia/) -->
 
-Skills
+<!-- Skills
 ======
 * Computer Languages
   * C
@@ -33,7 +34,7 @@ Skills
   * OrCAD
   * Simulink
   * Quartus
-  * etc.
+  * etc. -->
 
 Publications
 ======
