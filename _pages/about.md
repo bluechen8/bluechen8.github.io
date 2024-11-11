@@ -15,8 +15,10 @@ Before coming to the bay area, I spent two years at UIUC. I had my B.E. degree i
 
 News
 ======
+* 11/2024: Peek-a-Walk 🚷 is published at IEEE S&P 2025.
+* 11/2024: MICRO 🤠.
 * 08/2024: USENIX 🏙️ -> Crypto 🌊 -> Berkeley 🐻.
-* 03/2024: GoFetch 🐾 is published, please check our [website](https://gofetch.fail).
+* 03/2024: GoFetch 🐾 is published at USENIX Security 2024, please check our [website](https://gofetch.fail).
 * 05/2023: Summer research at Gatech 🐝.
 * 08/2022: I arrive at corn fields to pursue my ECE Ph.D. degree at UIUC 🌽.
 
