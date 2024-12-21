@@ -5,6 +5,7 @@ excerpt: 'Peek-a-Walk is a microarchitectural side-channel attack that leaks sec
 venue: 'IEEE S&P (Oakland)'
 authors: 'Alan Wang, <b><u>Boru Chen</u></b>, Yingchen Wang, Christopher W. Fletcher, Daniel Genkin, David Kohlbrenner, Riccardo Paccagnella'
 date: 2025-05-12
+paperurl: 'https://gofetch.fail/files/peek-a-walk.pdf'
 citation: '<a href="#bibtex-peek-a-walk" class="open-popup-link">bibtex</a>'
 ---
 {% include citations.html %}
