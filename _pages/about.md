@@ -15,6 +15,7 @@ Before coming to the bay area, I spent two years at UIUC. I had my B.E. degree i
 
 News
 ======
+* 04/2025: [Controlled Preemption](https://dl.acm.org/doi/10.1145/3676641.3715985) is public now :)
 * 11/2024: Peek-a-Walk 🚷 is published at IEEE S&P 2025.
 * 11/2024: MICRO 🤠.
 * 08/2024: USENIX 🏙️ -> Crypto 🌊 -> Berkeley 🐻.
