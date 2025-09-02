@@ -7,6 +7,7 @@ authors: 'Alan Wang, <b><u>Boru Chen</u></b>, Yingchen Wang, Christopher W. Flet
 date: 2025-05-12
 paperurl: 'https://gofetch.fail/files/peek-a-walk.pdf'
 citation: '<a href="#bibtex-peek-a-walk" class="open-popup-link">bibtex</a>'
+code: 'https://github.com/FPSG-UIUC/Peek-a-Walk'
 ---
 {% include citations.html %}
 
@@ -31,10 +32,10 @@ can leak all remaining bits of the secret except for the loworder
 bits look like. We demonstrate how PWSC amplifies leakage
 in scenarios exploiting speculative execution and data-memory
 prefetching. For speculative execution, we show that PWSC,
-combined with Intel’s LAM feature, can be exploited to leak
+combined with Intel's LAM feature, can be exploited to leak
 nearly all of physical memory and that even without LAM,
-PWSC can be used to leak Dilithium secret keys. For datamemory
+PWSC can be used to leak Dilithium secret keys. For data-memory
 prefetching, we reverse engineer the semantics of
-Intel’s data-memory dependent prefetcher (DMP) and show
+Intel's data-memory dependent prefetcher (DMP) and show
 how this DMP and PWSC can be combined to break security
 in an intra-process sandbox setting.

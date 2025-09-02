@@ -8,6 +8,7 @@ authors: '<b><u>Boru Chen</u></b>, Yingchen Wang, Pradyumna Shome, Christopher W
 date: 2024-08-14
 paperurl: 'https://gofetch.fail/files/gofetch.pdf'
 citation: '<a href="#bibtex-gofetch" class="open-popup-link">bibtex</a>'
+code: 'https://github.com/FPSG-UIUC/GoFetch'
 ---
 {% include citations.html %}
 
