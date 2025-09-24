@@ -5,7 +5,7 @@ excerpt: 'µSTT analyzed the hardware complexity of the state-of-the-art hardwar
 venue: 'ICCD'
 authors: '<b><u>Boru Chen</u></b>, Rutvik Choudhary, Kaustubh Khulbe, Archie Lee,  Adam Morrison, Christopher W. Fletcher'
 date: 2025-11-10
-paperurl: '/'
+paperurl: '/files/ustt.pdf'
 citation: '<a href="#bibtex-ustt" class="open-popup-link">bibtex</a>'
 code: 'https://github.com/FPSG-UIUC/uSTT'
 ---
